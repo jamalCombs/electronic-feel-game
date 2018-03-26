@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D454B3D7-F133-E21C-572E-8CA2CC3C8A98}") = "ElectronicFeelPartSeven", "Assembly-CSharp.csproj", "{6E2C358F-6BE7-ED76-E054-8754B6CF52CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2C358F-6BE7-ED76-E054-8754B6CF52CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2C358F-6BE7-ED76-E054-8754B6CF52CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2C358F-6BE7-ED76-E054-8754B6CF52CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2C358F-6BE7-ED76-E054-8754B6CF52CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

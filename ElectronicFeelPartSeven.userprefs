@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ExpandObject.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="51" Column="26" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreateLoveObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StatsGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FollowMainPlayer.cs" Line="18" Column="32" />
+      <File FileName="Assets\Scripts\DestroyOnCollision.cs" Line="16" Column="9" NotebookId="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="49" Column="34" NotebookId="1" />
+      <File FileName="Assets\Scripts\ExpandObject.cs" Line="32" Column="29" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
